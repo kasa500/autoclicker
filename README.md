@@ -7,4 +7,4 @@ Press LEFT ALT to toggle
 
 If you are still learning c sharp like I am, dont just copy and paste the source code. Analyze the code and think how it works and try to write your own.
 
-![alt text](https://gyazo.com/cdc5a56699779a80205fd390b4b2da49)
+![alt text](https://i.imgur.com/LXXb8w9.png)
